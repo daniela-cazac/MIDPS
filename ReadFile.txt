@@ -1,0 +1,1 @@
+1) Am creat si utilizat un fisier .gitignore si am creat un fisier unde duc evidenta commit-urilor.Primul commit il fac imediat :)
