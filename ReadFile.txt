@@ -1,1 +1,3 @@
 1) Am creat si utilizat un fisier .gitignore si am creat un fisier unde duc evidenta commit-urilor.Primul commit il fac imediat :)
+
+2) Al doilea comit il fac imediat pentru a demonstra ca pot reveni la o versiune anterioara. Initial voi face commit la mai multe fisiere , apoi voi face commit la mai putine fisiere, la care voi dori sa revin la prima versiune. Let's try! 
