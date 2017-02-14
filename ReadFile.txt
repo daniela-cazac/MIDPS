@@ -1,3 +1,7 @@
 1) Am creat si utilizat un fisier .gitignore si am creat un fisier unde duc evidenta commit-urilor.Primul commit il fac imediat :)
 
 2) Al doilea comit il fac imediat pentru a demonstra ca pot reveni la o versiune anterioara. Initial voi face commit la mai multe fisiere , apoi voi face commit la mai putine fisiere, la care voi dori sa revin la prima versiune. Let's try! 
+
+4) Al patrulea si cincilea commit il voi face dupa ce creez 2 branch-uri si le voi pune pe Git ! :) Ne familiarizam cu "Ramurile" ! 
+
+5)Urmatorul commit il fac dupa ce am adaugat un fisier in branch-ul FirstBranch cu textul "test on branch FirstBranch"
