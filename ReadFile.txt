@@ -4,4 +4,6 @@
 
 4) Al patrulea si cincilea commit il voi face dupa ce creez 2 branch-uri si le voi pune pe Git ! :) Ne familiarizam cu "Ramurile" ! 
 
-5)5)Urmatorul commit il fac dupa ce am adaugat un fisier in branch-ul FirstBranch cu textul "test on branch FirstBranch"
+5)Urmatorul commit il fac dupa ce am adaugat un fisier in branch-ul FirstBranch cu textul "test on branch FirstBranch"
+
+6)Urmatorul commit il fac dupa ce am adaugat un fisier in branch-ul SecondBranch cu textul "test on branch SecondBranch"
